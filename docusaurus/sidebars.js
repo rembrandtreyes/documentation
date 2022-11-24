@@ -158,14 +158,7 @@ const sidebars = {
         'cloud/projects/settings',
       ]
     },
-    {
-      type: 'category',
-      label: 'Account Management',
-      links: {
-        type: 'doc',
-        id: 'cloud/account/settings',
-      },
-    },
+    'cloud/account/settings'
   ],
 };
 
