@@ -72,13 +72,6 @@ const sidebars = {
             // 'dev-docs/configurations/middlewares',
           ]
         },
-        {
-          type: 'category',
-          label: 'Deployment',
-          items: [
-            'dev-docs/deployment/strapi-cloud',
-          ]
-        }
       ]
     },
     {
