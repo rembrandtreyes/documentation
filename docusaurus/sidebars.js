@@ -158,7 +158,7 @@ const sidebars = {
         'cloud/projects/settings',
       ]
     },
-    'cloud/account/settings'
+    'cloud/account/settings',
   ],
 };
 
